@@ -17,6 +17,7 @@
 </a>
 
 <br>
+<br>
 
 Hi, I'm Harshit Bansal, a Web Developer 🚀 from India, Beside's programming, I enjoy writing and traveling.
 - 🔭 I’m currently working on  **Competitive Programming**
