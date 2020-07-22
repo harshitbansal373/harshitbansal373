@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hey 👋🏻, I'm Harshit Bansal 
 
-<!--
-**harshitbansal373/harshitbansal373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/harshitbansal37">
+  <img align="left" alt="Harshit Bansal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harshitbansal373/">
+  <img align="left" alt="Harshit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/harshitbansal373/">
+  <img align="left" alt="Harshit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/harshitbansal373">
+  <img align="left" alt="Harshit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.reddit.com/user/harshitbansal373">
+  <img align="left" alt="Harshit's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
-Here are some ideas to get you started:
+Hi, I'm Harshit Bansal, a Web Developer 🚀 from India, Beside's programming, I enjoy writing and traveling.
+- 🔭 I’m currently working on  **Competitive Programming**
+- 💻 Developed the website of **[IJTRS (international journal of technical research & science)](https://ijtrs.com/)**
+- 💬 Ask me about anything, I'm happy to help
+- 😐 Want to help in Data Structure and Algo.
+- 📫 How to reach me: **harshitbansal373@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Harshit Bansal's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal373&theme=radical&hide_langs_below=1) ![Harshit Bansal's github stats](https://github-readme-stats.vercel.app/api?username=harshitbansal373&show_icons=true&theme=radical&line_height=27)
+![harshitbansal373/python](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=python&theme=radical)  ![harshitbansal373/PHP-CMS](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=PHP-CMS&theme=radical)
+
+---
