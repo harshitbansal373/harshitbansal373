@@ -36,5 +36,5 @@ Hi, I'm Harshit Bansal, a Web Developer 🚀 from India, Beside's programming, I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Harshit Bansal's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal373&theme=radical&hide_langs_below=6) ![Harshit Bansal's github stats](https://github-readme-stats.vercel.app/api?username=harshitbansal373&show_icons=true&theme=radical&line_height=27)
+![Harshit Bansal's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal373&theme=radical&layout=compact) ![Harshit Bansal's github stats](https://github-readme-stats.vercel.app/api?username=harshitbansal373&show_icons=true&theme=radical&line_height=27)
 [![harshitbansal373/python](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=python&theme=radical)](https://github.com/harshitbansal373/python)  [![harshitbansal373/PHP-CMS](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=PHP-CMS&theme=radical)](https://github.com/harshitbansal373/PHP-CMS)
