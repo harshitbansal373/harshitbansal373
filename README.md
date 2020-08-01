@@ -26,7 +26,9 @@ Hi, I'm Harshit Bansal, a Web Developer 🚀 from India, Beside's programming, I
 - 😐 Want to help in Data Structure and Algo.
 - 📫 How to reach me: **harshitbansal373@gmail.com**
 
-**Languages and Tools:**  <br>
+**Languages and Tools:**  
+<br>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
