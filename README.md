@@ -19,8 +19,9 @@
 <br>
 <br>
 
-Hi, I'm Harshit Bansal, a Web Developer 🚀 from India, Beside's programming, I enjoy writing and traveling.
-- 🔭 I’m currently working on  **Competitive Programming**
+Hi, I'm Harshit Bansal, a Salesforce Developer 🚀 from India, Beside's programming, I enjoy writing and Music.
+- 🔭 I’m currently working on  **Salesforce India**
+- ⛳️ Completed several projects on salesforce domains successfully.
 - 💻 Developed the website of **[IJTRS (international journal of technical research & science)](https://ijtrs.com/)**
 - 💬 Ask me about anything, I'm happy to help
 - 😐 Want to help in Data Structure and Algo.
